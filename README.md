@@ -14,6 +14,4 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+demo: http://product.k5b6yazo.beget.tech/
