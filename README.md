@@ -1,5 +1,3 @@
-# go
-
 ## Project setup
 ```
 npm install
